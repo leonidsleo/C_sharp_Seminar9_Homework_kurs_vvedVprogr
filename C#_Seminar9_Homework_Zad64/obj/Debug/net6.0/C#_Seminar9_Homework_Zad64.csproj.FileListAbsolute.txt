@@ -1,0 +1,15 @@
+C:\Users\LeonR\Documents\Обучение\0 Проекты, учебные\C#_Seminar9_Homework_vved_v_progr\C#_Seminar9_Homework_Zad64\obj\Debug\net6.0\C#_Seminar9_Homework_Zad64.csproj.AssemblyReference.cache
+C:\Users\LeonR\Documents\Обучение\0 Проекты, учебные\C#_Seminar9_Homework_vved_v_progr\C#_Seminar9_Homework_Zad64\obj\Debug\net6.0\C#_Seminar9_Homework_Zad64.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LeonR\Documents\Обучение\0 Проекты, учебные\C#_Seminar9_Homework_vved_v_progr\C#_Seminar9_Homework_Zad64\obj\Debug\net6.0\C#_Seminar9_Homework_Zad64.AssemblyInfoInputs.cache
+C:\Users\LeonR\Documents\Обучение\0 Проекты, учебные\C#_Seminar9_Homework_vved_v_progr\C#_Seminar9_Homework_Zad64\obj\Debug\net6.0\C#_Seminar9_Homework_Zad64.AssemblyInfo.cs
+C:\Users\LeonR\Documents\Обучение\0 Проекты, учебные\C#_Seminar9_Homework_vved_v_progr\C#_Seminar9_Homework_Zad64\obj\Debug\net6.0\C#_Seminar9_Homework_Zad64.csproj.CoreCompileInputs.cache
+C:\Users\LeonR\Documents\Обучение\0 Проекты, учебные\C#_Seminar9_Homework_vved_v_progr\C#_Seminar9_Homework_Zad64\bin\Debug\net6.0\C#_Seminar9_Homework_Zad64.exe
+C:\Users\LeonR\Documents\Обучение\0 Проекты, учебные\C#_Seminar9_Homework_vved_v_progr\C#_Seminar9_Homework_Zad64\bin\Debug\net6.0\C#_Seminar9_Homework_Zad64.deps.json
+C:\Users\LeonR\Documents\Обучение\0 Проекты, учебные\C#_Seminar9_Homework_vved_v_progr\C#_Seminar9_Homework_Zad64\bin\Debug\net6.0\C#_Seminar9_Homework_Zad64.runtimeconfig.json
+C:\Users\LeonR\Documents\Обучение\0 Проекты, учебные\C#_Seminar9_Homework_vved_v_progr\C#_Seminar9_Homework_Zad64\bin\Debug\net6.0\C#_Seminar9_Homework_Zad64.dll
+C:\Users\LeonR\Documents\Обучение\0 Проекты, учебные\C#_Seminar9_Homework_vved_v_progr\C#_Seminar9_Homework_Zad64\bin\Debug\net6.0\C#_Seminar9_Homework_Zad64.pdb
+C:\Users\LeonR\Documents\Обучение\0 Проекты, учебные\C#_Seminar9_Homework_vved_v_progr\C#_Seminar9_Homework_Zad64\obj\Debug\net6.0\C#_Seminar9_Homework_Zad64.dll
+C:\Users\LeonR\Documents\Обучение\0 Проекты, учебные\C#_Seminar9_Homework_vved_v_progr\C#_Seminar9_Homework_Zad64\obj\Debug\net6.0\refint\C#_Seminar9_Homework_Zad64.dll
+C:\Users\LeonR\Documents\Обучение\0 Проекты, учебные\C#_Seminar9_Homework_vved_v_progr\C#_Seminar9_Homework_Zad64\obj\Debug\net6.0\C#_Seminar9_Homework_Zad64.pdb
+C:\Users\LeonR\Documents\Обучение\0 Проекты, учебные\C#_Seminar9_Homework_vved_v_progr\C#_Seminar9_Homework_Zad64\obj\Debug\net6.0\C#_Seminar9_Homework_Zad64.genruntimeconfig.cache
+C:\Users\LeonR\Documents\Обучение\0 Проекты, учебные\C#_Seminar9_Homework_vved_v_progr\C#_Seminar9_Homework_Zad64\obj\Debug\net6.0\ref\C#_Seminar9_Homework_Zad64.dll
