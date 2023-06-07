@@ -3,12 +3,11 @@
 // M = 1; N = 15 -> 120
 // M = 4; N = 8. -> 30
 
-int SummNatural(int max)
+int SummNatural(int max, int min)
 {
-    int min = 1;
     if (max == min) return min;
     {
-        return max + SummNatural(max - 1);
+        return max + SummNatural(max - 1, min);
     }
 }
-Console.Write(SummNatural(15));
+Console.Write(SummNatural(15, 1));
